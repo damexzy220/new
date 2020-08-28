@@ -1,0 +1,26 @@
+body{
+    
+}
+
+.container{
+    background-color: aquamarine;
+}
+.body{
+    margin : 0;
+    padding: 0;
+    font-family: "Arial",serif;
+}
+.nav{
+    background-color: rgb(167, 39, 39);
+    display: flex;
+    list-style-type: none;
+    float: right;
+    margin-right: 50px;
+        
+    
+}
+.nav li{
+    text-decoration: none;
+    padding-left: 20px;
+    color: white;
+}
